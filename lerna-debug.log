@@ -1,0 +1,6 @@
+68 error Error: Command failed: git tag v0.0.4 -m v0.0.4
+68 error fatal: 标签 'v0.0.4' 已存在
+68 error
+68 error     at makeError (/Users/shishengzhuo/lagou/03-04-study-materials/code/3-4-3-3-组件库开发/03-lgelement/node_modules/execa/index.js:174:9)
+68 error     at /Users/shishengzhuo/lagou/03-04-study-materials/code/3-4-3-3-组件库开发/03-lgelement/node_modules/execa/index.js:278:16
+68 error     at processTicksAndRejections (internal/process/task_queues.js:95:5)
